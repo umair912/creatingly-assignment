@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.5",
+    "cypress": "^13.16.1"
+  }
+}
